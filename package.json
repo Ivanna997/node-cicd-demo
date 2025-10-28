@@ -1,0 +1,13 @@
+{
+  "name": "node-cicd-demo",
+  "version": "1.0.0",
+  "description": "Aplicación Node.js de ejemplo para flujo de liberación y despliegue continuo.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"✅ Pruebas simuladas exitosas\""
+  },
+  "dependencies": {
+    "express": "^4.19.0"
+  }
+}
